@@ -31,10 +31,8 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/7hoknb.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Amine0x0/Amine0x0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/7hoknb.jpg"  />
+</div>
 
 ###
