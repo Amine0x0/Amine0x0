@@ -1,4 +1,4 @@
-<h2 align="left">Just a regular computer geek... Nothing else to see here</h2>
+<h2 align="left">Creativity is the residue of time wasted.</h2>
 
 ###
 
