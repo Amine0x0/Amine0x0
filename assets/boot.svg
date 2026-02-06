@@ -52,12 +52,10 @@
   
   <rect class="terminal-bg" width="800" height="280" rx="4"/>
   
-  <!-- Terminal header -->
   <circle cx="20" cy="15" r="5" fill="#333"/>
   <circle cx="40" cy="15" r="5" fill="#333"/>
   <circle cx="60" cy="15" r="5" fill="#333"/>
   
-  <!-- BIOS POST -->
   <text class="terminal-text dim" x="20" y="45">
     <tspan class="char c1">B</tspan><tspan class="char c2">I</tspan><tspan class="char c3">O</tspan><tspan class="char c4">S</tspan><tspan class="char c5"> </tspan><tspan class="char c6">P</tspan><tspan class="char c7">O</tspan><tspan class="char c8">S</tspan><tspan class="char c9">T</tspan><tspan class="char c10">:</tspan><tspan class="char c11"> </tspan><tspan class="char c12">O</tspan><tspan class="char c13">K</tspan>
   </text>
@@ -65,33 +63,29 @@
   <text class="terminal-text dim l2" x="20" y="62">Memory Test: 16384K OK</text>
   <text class="terminal-text dim l3" x="20" y="79">Loading kernel...</text>
   
-  <!-- Init command -->
   <text class="terminal-text l4" x="20" y="104">
     <tspan fill="#606060">root@dev</tspan><tspan fill="#505050">:</tspan><tspan fill="#707070">~</tspan><tspan fill="#505050">$</tspan><tspan fill="#909090"> ./amine0x0 --init</tspan>
   </text>
   
-  <!-- Profile info -->
   <text class="terminal-text l5" x="20" y="129">
     <tspan fill="#505050">[</tspan><tspan fill="#808080">SYS</tspan><tspan fill="#505050">]</tspan><tspan fill="#707070"> Systems programmer @ 42 Network</tspan>
   </text>
   
   <text class="terminal-text l6" x="20" y="146">
-    <tspan fill="#505050">[</tspan><tspan fill="#808080">LANG</tspan><tspan fill="#505050">]</tspan><tspan fill="#707070"> C · C++ · C# · .NET</tspan>
+    <tspan fill="#505050">[</tspan><tspan fill="#808080">LANG</tspan><tspan fill="#505050">]</tspan><tspan fill="#707070"> C · C++ · C#(.NET/ASP) . Python . Golang . Javascript </tspan>
   </text>
   
   <text class="terminal-text l7" x="20" y="163">
-    <tspan fill="#505050">[</tspan><tspan fill="#808080">INFO</tspan><tspan fill="#505050">]</tspan><tspan fill="#606060"> Tinkering with system internals, writing low-level code,</tspan>
+    <tspan fill="#505050">[</tspan><tspan fill="#808080">INFO</tspan><tspan fill="#505050">]</tspan><tspan fill="#606060"> Tinkering with system internals, servers, </tspan>
   </text>
   <text class="terminal-text l8" x="20" y="180">
     <tspan fill="#606060">       and generally poking around where I probably shouldn't.</tspan>
   </text>
   
-  <!-- Link -->
   <text class="terminal-text l9" x="20" y="205">
     <tspan fill="#505050">[</tspan><tspan fill="#707070">LINK</tspan><tspan fill="#505050">]</tspan><tspan fill="#606060"> github.com/Amine0x0</tspan>
   </text>
   
-  <!-- Exit sequence -->
   <text class="terminal-text dim l10" x="20" y="235">───────────────────────────────────────────────────</text>
   
   <text class="terminal-text l11" x="20" y="258">
@@ -99,6 +93,5 @@
   </text>
   <rect class="cursor l11" x="88" y="246" width="8" height="14" fill="#505050"/>
   
-  <!-- Scanline -->
   <rect class="scanline" x="0" y="0" width="800" height="2"/>
 </svg>
